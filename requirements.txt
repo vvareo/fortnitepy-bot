@@ -1,4 +1,5 @@
 fortnitepy
 BenBotAsync
 crayons
-typing
+pypresence
+psutil
